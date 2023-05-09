@@ -4,5 +4,7 @@ public class Sum{
         int b = 1;
 
         System.out.println("Multiplication : "+a *b);
+        int c = 2;
+        System.out.println("Product : "+a *b * c);
     }
 }
